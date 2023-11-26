@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "514558485013",
+    "firebase_url": "https://hygroplant-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hygroplant",
+    "storage_bucket": "hygroplant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514558485013:android:c1cf11aa9926c9d036641c",
+        "android_client_info": {
+          "package_name": "com.example.hygroplant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrwjUB4uf0KTcQlNbkEept51eGUr50vI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
