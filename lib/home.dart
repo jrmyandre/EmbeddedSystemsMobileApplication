@@ -4,8 +4,6 @@ import 'package:firebase_database/firebase_database.dart';
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key});
 
-
-
   @override
   State<MyHomePage> createState() => _MyHomePageState();
 }
@@ -53,6 +51,9 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Center(
         child: Column(
           children: [
+            const SizedBox(
+              height: 50,
+            ),
             const Text(
               "HygroPlant",
               style: TextStyle(
