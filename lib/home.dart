@@ -51,8 +51,9 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Center(
         child: Column(
           children: [
-            const SizedBox(
-              height: 50,
+             SizedBox(
+              height: 
+              MediaQuery.of(context).size.height * 0.07,
             ),
             const Text(
               "HygroPlant",
